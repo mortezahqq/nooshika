@@ -1,7 +1,6 @@
-Kasebi gold pricing 1.0.1
-82 core contract/pricing/router/template checks: PASS
-Actual ERP MU-loader regression reproduction and dependency retention checks: PASS
-Subdirectory /dev full URL route: PASS
-PHP lint: PASS
-Live website validation: not performed
-ZIP SHA256: 08bee87ac1842a130281b879e66bb92f6c372b05711a639c268c29ce977b5c22
+Kasebi gold pricing 1.0.2
+122 core, category routing, independent saves, real ERP submenu and template checks: PASS
+Seven category forms balanced/non-nested: PASS
+ERP AJAX-loader dependency regression: PASS
+Live site/browser visual validation: not performed
+ZIP SHA256: 4e9cead18110511bdd75f71caa82db0c52f6f86a97aed0669136c6741176e82f
