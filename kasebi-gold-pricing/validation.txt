@@ -1,0 +1,9 @@
+Kasebi ERP Gold Pricing 1.0.0
+PHP runtime: 8.4.24
+Contract, pricing, permissions, CSRF, concurrency, credential redaction, UI and actual ERP route/template checks: 81 passed.
+PHP syntax: 5 files passed.
+ZIP integrity and account-secret exclusion checks: passed.
+Live authenticated API requests: not performed; site-specific credentials required.
+Full WordPress/WooCommerce installation integration: not performed; WC writes verified with test doubles.
+Browser visual check: incomplete; local Chromium process failed in this environment.
+ZIP SHA256: 23a9112bed262d49b524804ab951dcb22b4707438d6e92ba97caf1aa41b37a05
