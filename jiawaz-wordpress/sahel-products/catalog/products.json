@@ -1,0 +1,241 @@
+[
+  {
+    "sku": "SAHEL-CAPPUCCINO",
+    "slug": "cappuccino",
+    "name": "کاپوچینو مخصوص ساحل",
+    "english": "Cappuccino Sahel",
+    "image": "assets/products/cappuccino-sahel.webp",
+    "gallery": [
+      "assets/products/cappuccino-sahel.webp",
+      "assets/products/cuppoccino.webp"
+    ],
+    "category": "کاپوچینو",
+    "description": "کاپوچینو مخصوص ساحل با نام Cappuccino Sahel روی بسته‌بندی. هر دو تصویر ارسالی این محصول در گالری قرار دارند.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-CHELONIIDAE",
+    "slug": "cheloniidae",
+    "name": "قهوه ساحل مدل چلونیده — ۵۰٪ عربیکا و ۵۰٪ روبوستا",
+    "english": "Cheloniidae",
+    "image": "assets/products/cheloniidae.webp",
+    "gallery": [
+      "assets/products/cheloniidae.webp"
+    ],
+    "category": "قهوه ترکیبی",
+    "description": "قهوه ساحل مدل Cheloniidae، ترکیبی از ۵۰ درصد عربیکا و ۵۰ درصد روبوستا مطابق مشخصات روی بسته.",
+    "blend": "۵۰٪ عربیکا / ۵۰٪ روبوستا",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-DOLPHIN",
+    "slug": "dolphin",
+    "name": "قهوه ساحل مدل دلفین — ۱۰۰٪ عربیکا",
+    "english": "Dolphin",
+    "image": "assets/products/dolphin.webp",
+    "gallery": [
+      "assets/products/dolphin.webp"
+    ],
+    "category": "قهوه عربیکا",
+    "description": "قهوه ساحل مدل Dolphin، صددرصد عربیکا، در بستهٔ یک کیلوگرمی مطابق تصویر محصول.",
+    "blend": "۱۰۰٪ عربیکا",
+    "weight_kg": "1",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-GOLD-INSTANT",
+    "slug": "gold-instant",
+    "name": "قهوه فوری گلد ساحل",
+    "english": "Gold Instant Coffee",
+    "image": "assets/products/gold-instant-coffee.webp",
+    "gallery": [
+      "assets/products/gold-instant-coffee.webp"
+    ],
+    "category": "قهوه فوری",
+    "description": "قهوه فوری گلد ساحل؛ عنوان Gold Instant Coffee روی بسته‌بندی درج شده است.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-HOT-CHOCOLATE",
+    "slug": "hot-chocolate",
+    "name": "هات چاکلت ساحل",
+    "english": "Hot Chocolate",
+    "image": "assets/products/hot-chocolate.webp",
+    "gallery": [
+      "assets/products/hot-chocolate.webp"
+    ],
+    "category": "نوشیدنی پودری",
+    "description": "پودر شکلات داغ ساحل با عنوان Hot Chocolate روی بسته‌بندی.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-INSTANT-ESPRESSO",
+    "slug": "instant-espresso",
+    "name": "اسپرسو فوری ساحل",
+    "english": "Instant Espresso",
+    "image": "assets/products/instant-espresso.webp",
+    "gallery": [
+      "assets/products/instant-espresso.webp"
+    ],
+    "category": "قهوه فوری",
+    "description": "اسپرسو فوری ساحل با عنوان Instant Espresso روی بسته‌بندی.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-MASALA",
+    "slug": "masala",
+    "name": "چای ماسالا ساحل",
+    "english": "Masala",
+    "image": "assets/products/masala.webp",
+    "gallery": [
+      "assets/products/masala.webp"
+    ],
+    "category": "نوشیدنی پودری",
+    "description": "محصول ماسالا ساحل با عنوان Masala روی بسته‌بندی.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-SAHEL-BLEND",
+    "slug": "sahel-blend",
+    "name": "قهوه ساحل مدل ساحل — ۷۰٪ روبوستا و ۳۰٪ عربیکا",
+    "english": "Sahel",
+    "image": "assets/products/sahel.webp",
+    "gallery": [
+      "assets/products/sahel.webp"
+    ],
+    "category": "قهوه ترکیبی",
+    "description": "قهوه ترکیبی ساحل مدل Sahel؛ ۷۰ درصد روبوستا و ۳۰ درصد عربیکا در بستهٔ یک کیلوگرمی مطابق تصویر.",
+    "blend": "۷۰٪ روبوستا / ۳۰٪ عربیکا",
+    "weight_kg": "1",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-SEAGULL",
+    "slug": "seagull",
+    "name": "قهوه ساحل مدل سیگال — ۶۰٪ روبوستا و ۴۰٪ عربیکا",
+    "english": "Seagull",
+    "image": "assets/products/seagull.webp",
+    "gallery": [
+      "assets/products/seagull.webp"
+    ],
+    "category": "قهوه ترکیبی",
+    "description": "قهوه ساحل مدل Seagull؛ ترکیب ۶۰ درصد روبوستا و ۴۰ درصد عربیکا، بستهٔ یک کیلوگرمی مطابق تصویر.",
+    "blend": "۶۰٪ روبوستا / ۴۰٪ عربیکا",
+    "weight_kg": "1",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-SHARK",
+    "slug": "shark",
+    "name": "قهوه ساحل مدل شارک — ۱۰۰٪ روبوستا",
+    "english": "Shark",
+    "image": "assets/products/shark.webp",
+    "gallery": [
+      "assets/products/shark.webp"
+    ],
+    "category": "قهوه روبوستا",
+    "description": "قهوه ساحل مدل Shark، صددرصد روبوستا، در بستهٔ یک کیلوگرمی مطابق تصویر محصول.",
+    "blend": "۱۰۰٪ روبوستا",
+    "weight_kg": "1",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-STARFISH",
+    "slug": "starfish",
+    "name": "قهوه ساحل مدل استارفیش — ۷۰٪ عربیکا و ۳۰٪ روبوستا",
+    "english": "Starfish",
+    "image": "assets/products/starfish.webp",
+    "gallery": [
+      "assets/products/starfish.webp"
+    ],
+    "category": "قهوه ترکیبی",
+    "description": "قهوه ساحل مدل Starfish؛ ترکیب ۷۰ درصد عربیکا و ۳۰ درصد روبوستا، بستهٔ یک کیلوگرمی مطابق تصویر.",
+    "blend": "۷۰٪ عربیکا / ۳۰٪ روبوستا",
+    "weight_kg": "1",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-VANILLA-CAPPUCCINO",
+    "slug": "vanilla-cappuccino",
+    "name": "کاپوچینو وانیلی ساحل",
+    "english": "Vanilla Cappuccino",
+    "image": "assets/products/vanilla-cappuccino.webp",
+    "gallery": [
+      "assets/products/vanilla-cappuccino.webp"
+    ],
+    "category": "کاپوچینو",
+    "description": "کاپوچینو وانیلی ساحل با عنوان Vanilla Cappuccino روی بسته‌بندی.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-WHALE",
+    "slug": "whale",
+    "name": "قهوه ساحل مدل ویل — ۸۰٪ روبوستا و ۲۰٪ عربیکا",
+    "english": "Whale",
+    "image": "assets/products/whale.webp",
+    "gallery": [
+      "assets/products/whale.webp"
+    ],
+    "category": "قهوه ترکیبی",
+    "description": "قهوه ساحل مدل Whale؛ ترکیب ۸۰ درصد روبوستا و ۲۰ درصد عربیکا، بستهٔ یک کیلوگرمی مطابق تصویر.",
+    "blend": "۸۰٪ روبوستا / ۲۰٪ عربیکا",
+    "weight_kg": "1",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  },
+  {
+    "sku": "SAHEL-CLASSIC-INSTANT",
+    "slug": "classic-instant",
+    "name": "قهوه فوری کلاسیک ساحل",
+    "english": "Classic Instant Coffee",
+    "image": "assets/products/classic-instant-coffee.webp",
+    "gallery": [
+      "assets/products/classic-instant-coffee.webp"
+    ],
+    "category": "قهوه فوری",
+    "description": "قهوه فوری کلاسیک ساحل با عنوان Classic Instant Coffee روی بسته‌بندی.",
+    "blend": "",
+    "weight_kg": "",
+    "regular_price": "",
+    "source": "نام و مشخصات قابل‌خواندن روی تصویر ارسالی",
+    "web_match": "تطبیق دقیق برند/مدل در جست‌وجوی وب تأیید نشد"
+  }
+]
