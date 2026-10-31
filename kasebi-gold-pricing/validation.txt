@@ -1,6 +1,8 @@
-Kasebi gold pricing 1.0.2
-122 core, category routing, independent saves, real ERP submenu and template checks: PASS
-Seven category forms balanced/non-nested: PASS
-ERP AJAX-loader dependency regression: PASS
-Live site/browser visual validation: not performed
-ZIP SHA256: 4e9cead18110511bdd75f71caa82db0c52f6f86a97aed0669136c6741176e82f
+Kasebi gold pricing 1.0.3
+129 PHP contract, pricing, routes, submenu, inline source saves and template checks: PASS
+ERP early AJAX loader regression: PASS
+Source switching JS in simulated DOM, fallback, edit preservation and AJAX navigation: PASS
+Balanced non-nested forms: PASS
+PHP syntax (7 files) and JS syntax: PASS
+Visual browser/live website checks: not performed
+ZIP SHA256: 626c19c9ed93cee34639c0d8487b361d9737337f0eae1d62327773f355af1538
