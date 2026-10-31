@@ -1,9 +1,7 @@
-Kasebi gold pricing 1.0.4
-139 PHP core, product search contract, access, nonce, routes and form checks: PASS
-Actual ERP script cleanup reproduces and fixes asset removal: PASS
-Native and jQuery/Select2 source changes + AJAX navigation: PASS (simulated DOM)
-Product AJAX debounce, stale requests, SKU/variation lookup, keyboard choice, clear, no manual numeric identifier: PASS (PHP + simulated DOM)
-ERP early plugin loader regression: PASS
-PHP and JS syntax + ZIP integrity: PASS
-Live-site and full-browser validation: not performed
-ZIP SHA256: 184461fb9176f1b8b023ce52b806d2b2519548f4ed4400d102cbae6b1b2af4e5
+Kasebi gold pricing 1.0.5
+151 PHP contract, pricing, native KCP metadata, variation, weight, currency, query/ACL/nonce, route/template checks: PASS
+ERP early plugin loader and script-cleanup regressions: PASS
+Immediate provider switching and AJAX product search behavior: PASS (simulated DOM)
+No duplicate per-product pricing inputs in ERP: PASS
+Live APIs, full WC install and visual browser checks: not performed
+ZIP SHA256: 80577225c9d6be4bfec29774efee8e7ed92e1beb7e71ba2e34cedaa671949daa
