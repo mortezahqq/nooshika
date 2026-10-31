@@ -1,7 +1,10 @@
-Kasebi gold pricing 1.0.6
-154 PHP pricing, opt-in, variations, migration, batching, queue deduplication, save recursion guard, native KCP data, routes/template checks: PASS
-ERP asset-cleanup and early plugin-loader regressions: PASS
-Provider switching in simulated DOM: PASS
+Kasebi gold pricing 1.0.7
+170 PHP pricing/API/native fields/getter/cart/variation/cache/migration/template checks: PASS
+Product set_price, set_regular_price and save forbidden in runtime tests: PASS
+No derived product prices or preview rows persisted: PASS
+Late variation array filtering after Woo transient write: verified against Woo upstream source
+ERP asset and plugin-loader regressions: PASS
+Provider selection UI (simulated DOM): PASS
 PHP/JS syntax and ZIP integrity: PASS
-Live WordPress/WooCommerce deployment and live API checks: not performed
-ZIP SHA256: 990d26a98fbdcf89e516f51d1667f34304ab312bcd88ed4706789e309fe71797
+Full live WooCommerce/API integration: not performed
+ZIP SHA256: 7220a384d0fff627f2511a3e8eebc8669292cfc8a1aca3df977ec80dfca431b5
