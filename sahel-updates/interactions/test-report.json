@@ -1,0 +1,35 @@
+[
+  {
+    "mode": "desktop",
+    "passed": true,
+    "checks": [
+      "scroll reveal",
+      "no layout shift",
+      "dynamic products",
+      "no horizontal overflow",
+      "no JS errors"
+    ]
+  },
+  {
+    "mode": "mobile",
+    "passed": true,
+    "checks": [
+      "scroll reveal",
+      "no layout shift",
+      "dynamic products",
+      "no horizontal overflow",
+      "no JS errors"
+    ]
+  },
+  {
+    "mode": "reduced",
+    "passed": true,
+    "checks": [
+      "scroll reveal",
+      "no layout shift",
+      "dynamic products",
+      "no horizontal overflow",
+      "no JS errors"
+    ]
+  }
+]
