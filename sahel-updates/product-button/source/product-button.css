@@ -1,0 +1,9 @@
+/* Keep the icon fixed while the label is clipped inside the closed button. */
+.product-card-3-cart{max-width:100%;box-sizing:border-box}
+.product-card-3-cart>.product-card-3-cart-icon{width:50px;min-width:50px;flex:0 0 50px;height:50px}
+.product-card-3-cart>span:not(.product-card-3-cart-icon){position:absolute;inset-inline-start:50px;top:0;bottom:0;display:flex;align-items:center;justify-content:center;width:max-content;max-width:none;white-space:nowrap;opacity:0;visibility:hidden;transition:opacity .15s ease;pointer-events:none}
+.product-card-3-cart:hover>span:not(.product-card-3-cart-icon),.product-card-3-cart:focus-visible>span:not(.product-card-3-cart-icon){width:calc(100% - 62px);opacity:1;visibility:visible;transition-delay:.15s}
+.product-card-3-cart:focus-visible{width:100%;outline:2px solid var(--colorPrimary,#744029);outline-offset:3px}
+.product-card-3-cart .card-3-btn-title:after{display:none}
+@media(hover:none){.product-card-3-cart{width:100%!important}.product-card-3-cart>span:not(.product-card-3-cart-icon){width:calc(100% - 62px);opacity:1;visibility:visible}}
+@media(prefers-reduced-motion:reduce){.product-card-3-cart,.product-card-3-cart>span{transition:none!important}}
