@@ -1,0 +1,4 @@
+.sahel-cup-motion-hero{overflow-x:clip;overflow-y:visible}
+.sahel-cup-motion-layer{display:block;width:100%;line-height:0;transform-origin:50% 60%;will-change:transform;backface-visibility:hidden}
+.sahel-cup-motion-layer>img{max-width:100%;height:auto;vertical-align:middle}
+@media(prefers-reduced-motion:reduce){.sahel-cup-motion-layer{transform:none!important;will-change:auto}}

@@ -1,0 +1,113 @@
+{
+  "passed": true,
+  "scenarios": [
+    {
+      "width": 1440,
+      "before": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 332.5,
+        "pageHeight": 4752,
+        "scrollWidth": 1440,
+        "viewport": 1440
+      },
+      "down": {
+        "y": 172.664,
+        "rotation": 17.99999174234843,
+        "widgetTop": 332.5,
+        "pageHeight": 4752,
+        "scrollWidth": 1440,
+        "viewport": 1440
+      },
+      "back": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 332.5,
+        "pageHeight": 4752,
+        "scrollWidth": 1440,
+        "viewport": 1440
+      },
+      "reduced": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 332.5,
+        "pageHeight": 4752,
+        "scrollWidth": 1440,
+        "viewport": 1440
+      },
+      "errors": []
+    },
+    {
+      "width": 820,
+      "before": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 416.21875,
+        "pageHeight": 4714,
+        "scrollWidth": 820,
+        "viewport": 820
+      },
+      "down": {
+        "y": 83.564,
+        "rotation": 14.000002009899058,
+        "widgetTop": 416.21875,
+        "pageHeight": 4714,
+        "scrollWidth": 820,
+        "viewport": 820
+      },
+      "back": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 416.21875,
+        "pageHeight": 4714,
+        "scrollWidth": 820,
+        "viewport": 820
+      },
+      "reduced": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 416.21875,
+        "pageHeight": 4714,
+        "scrollWidth": 820,
+        "viewport": 820
+      },
+      "errors": []
+    },
+    {
+      "width": 390,
+      "before": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 746.5,
+        "pageHeight": 5640,
+        "scrollWidth": 390,
+        "viewport": 390
+      },
+      "down": {
+        "y": 64,
+        "rotation": 9.999987517730313,
+        "widgetTop": 746.5,
+        "pageHeight": 5640,
+        "scrollWidth": 390,
+        "viewport": 390
+      },
+      "back": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 746.5,
+        "pageHeight": 5640,
+        "scrollWidth": 390,
+        "viewport": 390
+      },
+      "reduced": {
+        "y": 0,
+        "rotation": 0,
+        "widgetTop": 746.5,
+        "pageHeight": 5640,
+        "scrollWidth": 390,
+        "viewport": 390
+      },
+      "errors": []
+    }
+  ]
+}
